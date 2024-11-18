@@ -1,0 +1,1 @@
+# hotteok_generator
